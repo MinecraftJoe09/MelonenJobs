@@ -1,0 +1,6 @@
+name: MelonenJobs
+version: '${project.version}'
+main: eu.melonensaft.minecraftjoe09.melonenjobs.MelonenJobs
+api-version: 1.19
+prefix: MelonenJobs
+authors: [ MinecraftJoe09 ]
